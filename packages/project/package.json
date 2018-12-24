@@ -1,0 +1,27 @@
+{
+  "name": "@project/project",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wang.yiming <wymm0008@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "src/main.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@project/core": "^0.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "@project/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wang.yiming <wymm0008@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "src/main.ts",
+  "directories": {
+    "lib": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "pixi.js": "5.0.0-alpha.3"
+  }
+}
